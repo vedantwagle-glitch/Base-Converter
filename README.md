@@ -1,2 +1,1 @@
-# Base-Converter
-small Java base converter able to convert numbers from bases 2 to 36
+Created a base converter able to conver numbers from bases 2 to 36. Convert number first into a decimal and then to the given base as an intermediate step. Uses elementary methods to convert the number (remainder and exponentiation) 
